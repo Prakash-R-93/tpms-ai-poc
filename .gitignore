@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data
+data/raw/*
+data/processed/*
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store

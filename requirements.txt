@@ -4,8 +4,5 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-plotly
 jupyter
-openpyxl
-joblib
 streamlit

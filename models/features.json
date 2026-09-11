@@ -1,0 +1,10 @@
+[
+  "SOC",
+  "SOH",
+  "Battery_Temp",
+  "Motor_RPM",
+  "Motor_Torque",
+  "Motor_Temp",
+  "Brake_Pad_Wear",
+  "Charging_Voltage"
+]

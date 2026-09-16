@@ -359,18 +359,3 @@ It must not be used as a substitute for a vehicle manufacturer's TPMS, tire-pres
 
 :::
 
-### After replacing `README.md`
-
-Do a quick final verification:
-
-```bash
-git status
-
-
-Then:
-
-streamlit run dashboard/app.py
-
-
-Confirm the dashboard still produces both NORMAL and TPMS ALERT.
-

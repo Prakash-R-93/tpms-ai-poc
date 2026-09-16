@@ -20,19 +20,6 @@ Requirements:
 
 ---
 
-## Dataset 2
-
-EVIoT-PredictiveMaint Dataset
-
-Source:
-Kaggle
-
-License:
-CC BY-NC-SA 4.0
-
-Usage:
-Used for non-commercial research / proof-of-concept analysis.
-
 Important:
 Commercial use requires appropriate permission from the rights holder.
 

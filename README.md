@@ -23,7 +23,9 @@ Sensor values submitted to the model
 
 Important: This is a machine-learning Proof of Concept and not a production vehicle safety system. Actual tire pressure and the vehicle's TPMS should always be checked directly.
 
-Project Structure
+📁Project Structure
+
+```text
 tpms-ai-poc/
 │
 ├── dashboard/
@@ -51,6 +53,7 @@ tpms-ai-poc/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 Dataset
 
